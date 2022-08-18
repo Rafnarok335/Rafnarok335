@@ -17,4 +17,4 @@ My name is Mohammad Fahad Al Rafi. I am currently pursing a bachelor's degree in
 - Models: Machine Learning Classifiers, BI-LSTM, BERT, 1D CNN, etc.
 
 ### Connect:
-![] (https://www.flaticon.com/free-icon/linkedin_174857)
+![https://www.linkedin.com/in/mohammad-fahad-al-rafi-14b968111/](https://cdn-icons-png.flaticon.com/512/174/174857.png))
