@@ -21,3 +21,11 @@ My name is Mohammad Fahad Al Rafi. I am currently pursing a bachelor's degree in
 - Back-end Web Development
 - Data Science
 - Machine Learning,Deep Learning
+
+### Research Experience
+* Bachelor Thesis: Predicting Irregular Sleeping Pattern from Social Media: A Psycholinguistic Analysis From Tweets
+- Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
+- Domain: Machine Learning, Data Science, and Mental Health
+- Tools: Twitter API - Tweepy (Web Scraping), LIWC, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
+- Models: Machine Learning Classifiers, BI-LSTM, BERT, 1D CNN, etc.
+
