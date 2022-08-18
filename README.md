@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Mohammad Fahad Al Rafi. I am currently pursing a bachelor's degree in Computer Science and Engineering(Final Trimester) at United International University in Bangladesh. Hard working and passionate about software development and data science. I am a team player and can lead a group with total composure.
+
+
+### My Interest
