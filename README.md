@@ -16,3 +16,5 @@ My name is Mohammad Fahad Al Rafi. I am currently pursing a bachelor's degree in
 - Tools: Twitter API - Tweepy (Web Scraping), LIWC, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
 - Models: Machine Learning Classifiers, BI-LSTM, BERT, 1D CNN, etc.
 
+### Connect:
+![https://www.linkedin.com/in/mohammad-fahad-al-rafi-14b968111/] (https://www.flaticon.com/free-icon/linkedin_174857)
