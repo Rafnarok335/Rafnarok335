@@ -18,6 +18,6 @@ My name is Mohammad Fahad Al Rafi. I am currently pursing a bachelor's degree in
 
 
 ### My Interests
--Back-end Web Development
--Data Science
--Machine Learning,Deep Learning
+- Back-end Web Development
+- Data Science
+- Machine Learning,Deep Learning
