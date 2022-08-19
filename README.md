@@ -9,6 +9,12 @@ My name is Mohammad Fahad Al Rafi. I am currently pursing a bachelor's degree in
 - Data Science
 - Machine Learning,Deep Learning
 
+
+## Connect:
+<a target="_blank" href="https://www.linkedin.com/in/mohammad-fahad-al-rafi-14b968111/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px" /></a>
+<a target="_blank" href="mailto:fahadar62@gmail.com"><img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" style="width: 50px" /></a>
+
+
 ### Research Experience
 1 Bachelor Thesis: Predicting Irregular Sleeping Pattern from Social Media: A Psycholinguistic Analysis From Tweets
 - Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
