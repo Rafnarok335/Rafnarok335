@@ -51,6 +51,10 @@ My name is Mohammad Fahad Al Rafi. I am a fresh graduate in Computer Science and
 - Tools: Twitter API - Tweepy (Web Scraping), LIWC, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
 - Models: Machine Learning Classifiers, BI-LSTM, BERT, 1D CNN, etc.
 
+2 Review Paper: Social Media Research: A Review on User Behavior, and its Opportunities, Challenges and Future Research
+- Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
+- Domain:Machine Learning, User Behavior, Recommendation Systems, Social Media, Behavioral Analysis
+
 
 <br>
 
