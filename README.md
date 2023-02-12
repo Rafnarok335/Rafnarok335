@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-My name is Mohammad Fahad Al Rafi. I am a fresh graduate of bachelor's degree in Computer Science and Engineering at [United International University](https://www.uiu.ac.bd/) in Bangladesh. Hard working and passionate about software development and data science. I am a team player and can lead a group with total composure.
+My name is Mohammad Fahad Al Rafi. I am a fresh graduate in Computer Science and Engineering at [United International University](https://www.uiu.ac.bd/) in Bangladesh. Hard working and passionate about software development and data science. I am a team player and can lead a group with total composure.
 
 
 ### My Interests
