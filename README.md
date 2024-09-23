@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-My name is Mohammad Fahad Al Rafi. I am a current master's student in Web Communication Design at [University of Southern Denmark](https://www.sdu.dk/en) in Denamrk. Hard working and passionate about software development and data science. I am a team player and can lead a group with total composure. I have previously served as an Officer in [Eastern Bank PLC](https://www.ebl.com.bd/)
+My name is Mohammad Fahad Al Rafi. I am a current master's student in Web Communication Design at [University of Southern Denmark](https://www.sdu.dk/en) in Denamrk. Hard working and passionate about software development and data science. I am a team player and can lead a group with total composure. I have previously served as an Officer in [Eastern Bank PLC](https://www.ebl.com.bd/).
 
 
 ### My Interests
